@@ -1,0 +1,59 @@
+/* .navbar {
+  position: inherit;
+  background-color: yellow;
+  z-index: 10;
+  text-align: left;
+  padding: 5px 15px;
+  line-height: 35px;
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.navbar-menu {
+  position: absolute;
+  top: -150px;
+  height: 10vh;
+  width: 100vw;
+  min-height: 35px;
+  background-color: rgba(118, 138, 32, 0.365);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 350ms;
+}
+
+.navbar-menu input {
+  padding: 2px 5px;
+  margin: 2px 5px;
+  border-radius: 5px;
+}
+
+.navbar-menu button {
+  padding: 2px 5px;
+  margin: 2px 5px;
+  border-radius: 5px;
+}
+
+.navbar-menu label {
+  display: flex;
+}
+
+.navbar-menu .logout {
+  width: 150px;
+  height: 35px;
+  margin: 0 0 0 75%;
+}
+
+.navbar:hover + .navbar-menu {
+  top: 45px;
+}
+
+.navbar-menu:hover {
+  top: 45px;
+}
+
+.navbar-menu:focus-within {
+  top: 45px;
+} */
